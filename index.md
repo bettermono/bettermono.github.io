@@ -25,7 +25,7 @@ layout: default
 	margin: 5px 0px 5px 25%; width: 74%; height: auto; 
 	font-size: 18px; color: #333; 
 }
-.bulletlabel { display: block; position: absolute; right: 100%; width: 23%; top: 0px; height: auto;  }
+.bulletlabel { display: block; position: absolute; right: 101%; width: 25%; top: 0px; height: auto;  }
 </style>
 
 
