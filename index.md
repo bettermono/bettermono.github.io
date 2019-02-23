@@ -32,11 +32,11 @@ layout: default
 <div class="bulletbox">
 	<div class="bulletdate">2019/02/23</div>
 	<div class="bulletline">
-		<img class="bulletlabel" src="imgs/bulletheta.png>
+		<img class="bulletlabel" src="imgs/bulletheta.png"/>
 		heta text
 	</div>
 	<div class="bulletline">
-		<img class="bulletlabel" src="imgs/bulletbetter.png>
+		<img class="bulletlabel" src="imgs/bulletbetter.png"/>
 		better text
 	</div>
 </div>
