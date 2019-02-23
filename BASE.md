@@ -2,16 +2,6 @@
 layout: default
 ---
 
-<style>
-.bulletbox { margin: 20 1% 20 1%; width: 98%; border: 1px solid #468dcb;  background-color: #b1c7e7; border-radius: 5px; font-size: 20px; color: #555; }
-</style>
-
-
-<div class="bulletbox">
-some text
-</div>
-
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -103,8 +93,6 @@ end
 - level 1 item
 
 ### Small image
-
-
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
