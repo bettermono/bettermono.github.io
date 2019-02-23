@@ -3,7 +3,7 @@ layout: default
 ---
 
 <style>
-.bulletbox { margin: 20 1% 20 1%; width: 98%; border: 1px solid #468dcb;  background-color:#b5d6ff; border-radius: 5px; font-size: 20px; color: #333; padding: 3px; }
+.bulletbox { margin: 20 1% 20 1%; width: 98%; border: 1px solid #468dcb;  background-color:#c2dcfc; border-radius: 5px; font-size: 20px; color: #333; padding: 3px; }
 </style>
 
 
