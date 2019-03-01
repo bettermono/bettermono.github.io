@@ -29,6 +29,11 @@ layout: default
 </style>
 
 
+| ![ヘタ](imgs/bulletheta.png) | ![ベター](imgs/bulletbetter.png) |
+|:----------------------------------|:-----------------------|
+| one | two |
+
+
 <div class="bulletbox">
 <div class="bulletdate">2019/02/23</div>
 <div class="bulletline">
