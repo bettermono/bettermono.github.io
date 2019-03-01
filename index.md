@@ -4,7 +4,7 @@ layout: default
 
 <style>
 .bulletbox { 
-	margin: 20 1% 20 1%; 
+	margin: 25px 1% 25px 1%; 
 	width: 98%; 
 	border: 1px solid #468dcb;  
 	background-color:#c2dcfc; 
