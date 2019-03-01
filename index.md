@@ -29,9 +29,11 @@ layout: default
 </style>
 
 
-| ![ヘタ](imgs/bulletheta.png) | heta text |
+| マイクロ払い |  |
 |:-----------|:------------------------------------------------------|
-| ![ベター](imgs/bulletbetter.png) | better text |
+| <img style="width:15%;" src="imgs/bulletheta.png"> | heta text |
+|:-----------|:------------------------------------------------------|
+| <img style="width:15%;" src="imgs/bulletbetter.png"> | better text |
 
 
 
