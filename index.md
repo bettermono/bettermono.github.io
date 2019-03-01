@@ -29,9 +29,10 @@ layout: default
 </style>
 
 
-| ![ヘタ](imgs/bulletheta.png) | ![ベター](imgs/bulletbetter.png) |
-|:----------------------------------|:-----------------------|
-| one | two |
+| ![ヘタ](imgs/bulletheta.png) | heta text |
+|:-----------|:------------------------------------------------------|
+| ![ベター](imgs/bulletbetter.png) | better text |
+
 
 
 <div class="bulletbox">
