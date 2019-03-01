@@ -2,32 +2,6 @@
 layout: default
 ---
 
-<style>
-.bulletbox { 
-	margin: 25px 1% 25px 1%; 
-	width: 98%; 
-	border: 1px solid #468dcb;  
-	background-color:#c2dcfc; 
-	border-radius: 5px; 
-	font-size: 20px; 
-	color: #333; 
-	padding: 3px; 
-}
-.bulletdate { 
-	position: absolute;
-	bottom: 101%; 
-	right: 5px; 
-	font-size: 10px; 
-	color: #c2dcfc;
-}
-.bulletline { 
-	position: relative; 
-	margin: 5px 0px 5px 25%; width: 74%; height: auto; 
-	font-size: 18px; color: #333; 
-}
-.bulletlabel { display: block; position: absolute; right: 101%; width: 25%; top: 0px; height: auto;  }
-</style>
-
 
 | マイクロ払い |  |
 |:-----------|:-----------------------------------------------------------|
