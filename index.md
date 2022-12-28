@@ -3,6 +3,13 @@ layout: default
 ---
 
 
+| KeepでFlashcards |  |
+|:-----------|:----------------------------------------|:--------------------------------------------|
+| ![ヘタ](imgs/bulletheta.png)<br>current state | There is no **flashcards** mode in Keep, although it is much needed. | Keepでのデータ単位が**カード**になっているのにかかわらず記録練習になる**フラッシュカード**モードが存在しない。
+|:-----------|:------------------------------------------------------|
+| ![ベター](imgs/bulletbetter.png)<br>the "better" case | In browser (Chrome/Chromium/Edge) or Chromebook forms of Keep, we can use an [extension](https://chrome.google.com/webstore/category/extensions) to implement this functionality → the [span style="color:red;font-weight:bold;font-size:larger;">flash4keep</span>](./03flash4keep.html) addon. | ブラウザなのでChrome/Chronimium/Edgeに交換性をもつ[Chrome拡張](https://chrome.google.com/webstore/category/extensions?hl=ja)の形で、Keepにフラッシュカード機能をつける [<span style="color:red;font-weight:bold;font-size:larger;">Flash4Keepアドオン</span>](./03flash4keep.html)を作ってみた。 |
+
+
 | マイクロ払い |  |
 |:-----------|:-----------------------------------------------------------|
 | ![ヘタ](imgs/bulletheta.png) | **マイクロ払い**のことを[キャッシュレス決済](https://jp.techcrunch.com/2019/01/07/cashless-caosmap/)か[仮想通貨](https://coinchoice.net/crypto_company_map_summer2018/)か通常の100円程度の単位でもお支払い～～に思うこと。 |
