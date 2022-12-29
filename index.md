@@ -5,12 +5,16 @@ layout: default
 
 <div style="clear:both;height:100px;"></div>
 
-|:--------------|:----------------------------------------|:----------------------------------------|
+|:-----------------|:----------------------------------------|:----------------------------------------|
 | 20 Dec. 2022 | Flashcard mode for Google Keep | KeepでFlashcards
-|:--------------|:----------------------------------------|:----------------------------------------|
+|:-----------------|:----------------------------------------|:----------------------------------------|
 | ![ヘタ](imgs/bulletheta.png) | There is no **flashcards** mode in Keep, although it is much needed. | Keepでのデータ単位が**カード**になっているのにかかわらず記録練習になる**フラッシュカード**モードが存在しない。
-|:-----------|:------------------------------------------------------|
+|:--------------|:------------------------------------------------------|
 | ![ベター](imgs/bulletbetter.png) | In browser (Chrome/Chromium/Edge) or Chromebook forms of Keep, we can use an [extension](https://chrome.google.com/webstore/category/extensions) to implement this functionality → the [<span style="color:red;font-weight:bold;font-size:larger;">flash4keep</span>](./03flash4keep.html) addon. | ブラウザなのでChrome/Chronimium/Edgeに交換性をもつ[Chrome拡張](https://chrome.google.com/webstore/category/extensions?hl=ja)の形で、Keepにフラッシュカード機能をつける [<span style="color:red;font-weight:bold;font-size:larger;">Flash4Keepアドオン</span>](./03flash4keep.html)を作ってみた。 |
+
+
+
+<div style="clear:both;height:100px;"></div>
 
 
 | マイクロ払い |  |
@@ -18,6 +22,9 @@ layout: default
 | ![ヘタ](imgs/bulletheta.png) | **マイクロ払い**のことを[キャッシュレス決済](https://jp.techcrunch.com/2019/01/07/cashless-caosmap/)か[仮想通貨](https://coinchoice.net/crypto_company_map_summer2018/)か通常の100円程度の単位でもお支払い～～に思うこと。 |
 |:-----------|:------------------------------------------------------|
 | ![ベター](imgs/bulletbetter.png) | [取引コスト経済](https://ja.wikipedia.org/wiki/%E5%8F%96%E5%BC%95%E3%82%B3%E3%82%B9%E3%83%88)の概念を理解した上で1円～10円の単位でのお支払いを可能にした [<span style="color:red;font-weight:bold;font-size:larger;">自然マイクロ払い環境</span>](./01micropay.html) |
+
+
+<div style="clear:both;height:100px;"></div>
 
 
 | コロナ監視・組織内健康管理 |  |
