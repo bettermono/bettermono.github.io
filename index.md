@@ -5,11 +5,11 @@ layout: default
 
 <div style="clear:both;height:100px;"></div>
 
-|:-----------------|:----------------------------------------|:----------------------------------------|
-| 20 Dec. 2022 | Flashcard mode for Google Keep | KeepでFlashcards
-|:-----------------|:----------------------------------------|:----------------------------------------|
+|:-----------------|:--------------------------------------|:--------------------------------------|
+| <span style="font-size:smaller;">20 Dec. 2022</span> | Flashcard mode for Google Keep | KeepでFlashcards
+|:-----------------|:--------------------------------------|:--------------------------------------|
 | ![ヘタ](imgs/bulletheta.png) | There is no **flashcards** mode in Keep, although it is much needed. | Keepでのデータ単位が**カード**になっているのにかかわらず記録練習になる**フラッシュカード**モードが存在しない。
-|:-----------------|:----------------------------------------|:----------------------------------------|
+|:-----------------|:--------------------------------------|:--------------------------------------|
 | ![ベター](imgs/bulletbetter.png) | In browser (Chrome/Chromium/Edge) or Chromebook forms of Keep, we can use an [extension](https://chrome.google.com/webstore/category/extensions) to implement this functionality → the [<span style="color:red;font-weight:bold;font-size:larger;">flash4keep</span>](./03flash4keep.html) addon. | ブラウザなのでChrome/Chronimium/Edgeに交換性をもつ[Chrome拡張](https://chrome.google.com/webstore/category/extensions?hl=ja)の形で、Keepにフラッシュカード機能をつける [<span style="color:red;font-weight:bold;font-size:larger;">Flash4Keepアドオン</span>](./03flash4keep.html)を作ってみた。 |
 
 
