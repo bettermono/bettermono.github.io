@@ -1,6 +1,7 @@
 title: <span style="font-size:smaller;">ベターモノ<br><span style="font-size:smaller;">(Better Things)</span></span>
 logo: /assets/img/logo.png
-description: <b><b>ヘタもの</b>の下手のところを理解して、<b>ベターモノ</b>を作る。
+description: <strong>ヘタもの</strong>の下手のところを理解して、<strong>ベターモノ</strong>にする。
+link1: <a href="./mission.html">mission</a> 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
